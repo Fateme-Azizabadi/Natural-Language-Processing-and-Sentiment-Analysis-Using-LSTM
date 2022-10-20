@@ -45,9 +45,9 @@ We use LSTM with the below features. Also, the results are brought here.
 
 
  
- ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using LSTM/blob/main/Images/Network.png)
+ ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using-LSTM/blob/main/Images/Network.png)
 
  
- ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using LSTM/blob/main/Images/Result.png)
+ ![](https://github.com/Fateme-Azizabadi/Natural-Language-Processing-and-Sentiment-Analysis-Using-LSTM/blob/main/Images/Result.png)
  
  
